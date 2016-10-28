@@ -1,7 +1,7 @@
-## Interface: 70000
+## Interface: 70100
 ## Title: MooCam
 ## Notes: Set a camera setting on mount and dismount event
 ## Author: eltorrero
-## Version: 20160720
+## Version: 20161028
 
 MooCam.lua
