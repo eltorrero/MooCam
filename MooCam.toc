@@ -1,4 +1,4 @@
-## Interface: 70100
+## Interface: 80200
 ## Title: MooCam
 ## Notes: Set a camera setting on mount and dismount event
 ## Author: eltorrero
